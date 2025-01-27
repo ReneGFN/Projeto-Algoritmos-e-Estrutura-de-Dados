@@ -1,0 +1,2 @@
+📚 SISU Simulation System in C#
+This project is a simplified simulation of the SISU (Unified Selection System), developed in C# as a way to practice programming logic and teamwork. The system allows candidates to register, select courses, and prioritize preferences while allocating seats based on their scores and availability. All data handling and business logic were implemented without using databases or frameworks, focusing on in-memory operations and core C# functionalities. 🚀
